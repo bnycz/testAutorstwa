@@ -1,1 +1,3 @@
 # testAutorstwa
+
+Autor: Błażej Nycz
